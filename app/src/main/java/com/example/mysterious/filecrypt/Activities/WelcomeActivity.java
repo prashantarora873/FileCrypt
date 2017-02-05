@@ -121,7 +121,11 @@ public class WelcomeActivity extends AppCompatActivity {
 
     private void launchHomeScreen() {
         prefManager.setFirstTimeLaunch(false);
+<<<<<<< Updated upstream
         startActivity(new Intent(WelcomeActivity.this, RegisterDpSelectActivity.class));
+=======
+        startActivity(new Intent(WelcomeActivity.this, HomeActivity.class));
+>>>>>>> Stashed changes
         finish();
     }
 

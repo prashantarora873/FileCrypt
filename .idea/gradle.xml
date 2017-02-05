@@ -12,10 +12,7 @@
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
-<<<<<<< Updated upstream
         <option name="resolveModulePerSourceSet" value="false" />
-=======
->>>>>>> Stashed changes
       </GradleProjectSettings>
     </option>
   </component>
